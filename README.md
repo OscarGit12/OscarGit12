@@ -10,5 +10,5 @@
 ~
 ~
 ~
-[curso]:https://www.udemy.com/course/git-github/
+[cursoC]:https://www.udemy.com/course/git-github/
 
