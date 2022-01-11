@@ -5,7 +5,7 @@
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscargit12&show_icons=true&theme=tokyonight)
 
--Cursos de C[https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/kubernetes.png][cursoC]!
+-Cursos de C[<img aling="left" alt="git" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/kubernetes.png" />][cursoC]!
 
 [curso]:https://www.udemy.com/course/git-github/
 
