@@ -2,7 +2,7 @@
 
 ## Mis estadisticas son:
 ## Lenguages 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscargit12&exclude_repo=weissantiago2&show_icons=true&theme=tokyonight)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscargit12&show_icons=true&theme=tokyonight)
 <br>
 ## Certificados 
 
