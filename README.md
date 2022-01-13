@@ -8,13 +8,13 @@
 
 ###  Udemy <img src="https://www.udemy.com/staticx/udemy/images/v8/favicon-32x32.png" align="left" width="25" height="25"/>
 
-- [Git y GitHub][github-url] 
-- [PHP8][php8]  
-- [Power BI][power BI] 
+&emsp;&emsp;[![Git y GitHub][github-image]][github-url][&ensp;Git y GitHub][github-url] <br>
+&emsp;&emsp;[PHP8][php8]  
+&emsp;&emsp;[Power BI][power BI] 
 
 
 
-[![Git y GitHub][github-image]][github-url]
+ 
 
 
 
