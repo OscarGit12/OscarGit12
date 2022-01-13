@@ -28,10 +28,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 -->
-[gitter-image]: https://img.shields.io/gitter/room/koajs/koa.svg?style=flat-square
-[gitter-url]: https://gitter.im/koajs/koa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
-[github-image]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png
+[github-image]:https://github.com/OscarGit12/OscarGit12/blob/main/git16.png
 [github-url]:https://udemy-certificate.s3.amazonaws.com/pdf/UC-1d3bd76c-7490-4af7-976e-e29153288f86.pdf
 [php8]:https://udemy-certificate.s3.amazonaws.com/pdf/UC-28740b4f-e237-47f5-8a7b-21d9baa357ac.pdf
 [power BI]:https://udemy-certificate.s3.amazonaws.com/pdf/UC-4e721ec4-3073-4b3d-88d7-1779b8da8849.pdf
