@@ -9,7 +9,7 @@
 ###  Udemy <img src="https://www.udemy.com/staticx/udemy/images/v8/favicon-32x32.png" align="left" width="25" height="25"/>
 
 &emsp;&emsp;[![Git y GitHub][github-image]][github-url][&ensp;Git y GitHub][github-url] <br>
-&emsp;&emsp;[PHP8][php8]  
+&emsp;&emsp;[![PHP][php-image]][php-url][&ensp;PHP8][php-url]<br>
 &emsp;&emsp;[Power BI][power BI] 
 
 
@@ -31,5 +31,6 @@
 
 [github-image]:https://github.com/OscarGit12/OscarGit12/blob/main/git16.png
 [github-url]:https://udemy-certificate.s3.amazonaws.com/pdf/UC-1d3bd76c-7490-4af7-976e-e29153288f86.pdf
-[php8]:https://udemy-certificate.s3.amazonaws.com/pdf/UC-28740b4f-e237-47f5-8a7b-21d9baa357ac.pdf
+[php-image]:https://github.com/OscarGit12/OscarGit12/blob/main/php24.png
+[php-url]:https://udemy-certificate.s3.amazonaws.com/pdf/UC-28740b4f-e237-47f5-8a7b-21d9baa357ac.pdf
 [power BI]:https://udemy-certificate.s3.amazonaws.com/pdf/UC-4e721ec4-3073-4b3d-88d7-1779b8da8849.pdf
