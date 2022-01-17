@@ -1,8 +1,4 @@
 
-&emsp;&emsp;[![Git y GitHub][github-image]][github-url][&ensp;Git y GitHub][github-url] <br>
-&emsp;&emsp;[![PHP][php-image]][php-url][&ensp;PHP8][php-url]<br>
-&emsp;&emsp;[Power BI][power BI] 
-
 <html>
 
 <body>
@@ -13,31 +9,26 @@
 </html>
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscargit12&show_icons=true&theme=tokyonight)
-<br>
+
  
  ## Certificados 
 ###  Udemy <img src="https://www.udemy.com/staticx/udemy/images/v8/favicon-32x32.png" align="left" width="25" height="25"/>
 
-
-
-<html>
-  <link rel="stylesheet" href=":https://github.com/OscarGit12/OscarGit12/blob/main/diceño.css">
-<body>
-
-<table>
- <tr>
-  <td>
-  </td>
- </tr>
-</table>
-</body>
-
-</html>
-
+* ![Git y GitHub][github-image]&emsp;Git y GitHub
+  - [Jorge Salgado Miranda][github-url-JSM]
+  - [Fernando Herrera][github-url-FM]
+* ![PHP][php-image]&emsp;PHP8
+  - [Juan Fernando Urrego][php-url]
+* ![Power BI][power-BI-image]&emsp;Power BI
+  - [Numpi Cursos][power-BI-url] 
 
 
 [github-image]:https://github.com/OscarGit12/OscarGit12/blob/main/git16.png
-[github-url]:https://udemy-certificate.s3.amazonaws.com/pdf/UC-1d3bd76c-7490-4af7-976e-e29153288f86.pdf
+[github-url-JSM]:https://www.udemy.com/course/git-y-github-desde-cero-a-experto/
+[github-url-FM]:https://www.udemy.com/course/git-github/
+
 [php-image]:https://github.com/OscarGit12/OscarGit12/blob/main/php24.png
-[php-url]:https://udemy-certificate.s3.amazonaws.com/pdf/UC-28740b4f-e237-47f5-8a7b-21d9baa357ac.pdf
-[power BI]:https://udemy-certificate.s3.amazonaws.com/pdf/UC-4e721ec4-3073-4b3d-88d7-1779b8da8849.pdf
+[php-url]:https://www.udemy.com/course/crea-aplicaciones-php-seguras-con-sql-y-ajax-desde-cero/
+
+[power-BI-image]:https://github.com/OscarGit12/OscarGit12/blob/main/pwbi24.png
+[power-BI-url]:https://www.udemy.com/course/power-bi-desde-cero/
