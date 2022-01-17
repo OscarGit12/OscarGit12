@@ -4,9 +4,7 @@
 &emsp;&emsp;[Power BI][power BI] 
 
 <html>
-  <style>
- table { background-color: coral; }
- </style>
+
 <body>
 <h1>!Hola todos¡ Mi nombre es Oscar</h1><br>
 <h3>Mis estadisticas de Lenguages publicas son:</h3>
@@ -20,17 +18,18 @@
  ## Certificados 
 ###  Udemy <img src="https://www.udemy.com/staticx/udemy/images/v8/favicon-32x32.png" align="left" width="25" height="25"/>
 
+
+
+<html>
+  <link rel="stylesheet" href=":https://github.com/OscarGit12/OscarGit12/blob/main/diceño.css">
+<body>
+
 <table>
  <tr>
   <td>
   </td>
  </tr>
 </table>
-
-
-<html>
-<body>
-
 </body>
 
 </html>
