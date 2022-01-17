@@ -1,13 +1,21 @@
 
-<html>
 
-<body>
-<h1>!Hola todos¡ Mi nombre es Oscar</h1><br>
-<h3>Mis estadisticas de Lenguages publicas son:</h3>
-<br> 
-</body>
-</html>
+## !Hola todos¡ Mi nombre es Oscar
 
+### Ingeniería de Ejecución en Informática
+ 
+<b>Sobre mi</b>
+
+Profesional del Lenguaje de Programación gracias a Clases y Lectura de Libros y documentación
+
+Youtuber, Universidad (UDLA) y Udemy en tiempos libres.
+
+Desarrollador de Apps para Android, Angular , Paginas web.
+ 
+Agradecido con la vida por darme la oportunidad de vivirla al máximo y de ser feliz que es lo más importante.
+
+### <b>Mis estadisticas de Lenguages publicas son:</b>
+ 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscargit12&show_icons=true&theme=tokyonight)
 
  
