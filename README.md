@@ -29,6 +29,9 @@ Agradecido con la vida por darme la oportunidad de vivirla al máximo y de ser f
   - [Juan Fernando Urrego][php-url]
 * ![Power BI][power-BI-image]&emsp;Power BI
   - [Numpi Cursos][power-BI-url] 
+* ![javaScript y jquery][js-BI-image]&emsp;JavaScrip y Jquery
+  - [Víctor Robles][js-BI-url]
+
 
 
 [github-image]:https://github.com/OscarGit12/OscarGit12/blob/main/git16.png
@@ -40,3 +43,7 @@ Agradecido con la vida por darme la oportunidad de vivirla al máximo y de ser f
 
 [power-BI-image]:https://github.com/OscarGit12/OscarGit12/blob/main/pwbi24.png
 [power-BI-url]:https://www.udemy.com/course/power-bi-desde-cero/
+
+[js-BI-image]:https://github.com/OscarGit12/OscarGit12/blob/main/pwbi24.png
+[js-BI-url]:https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/
+
