@@ -44,6 +44,6 @@ Agradecido con la vida por darme la oportunidad de vivirla al máximo y de ser f
 [power-BI-image]:https://github.com/OscarGit12/OscarGit12/blob/main/pwbi24.png
 [power-BI-url]:https://www.udemy.com/course/power-bi-desde-cero/
 
-[js-BI-image]:https://github.com/OscarGit12/OscarGit12/blob/main/js.png
+[js-BI-image]:https://github.com/OscarGit12/OscarGit12/blob/main/js24.png
 [js-BI-url]:https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/
 
