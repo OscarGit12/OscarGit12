@@ -19,8 +19,7 @@ Agradecido con la vida por darme la oportunidad de vivirla al máximo y de ser f
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscargit12&show_icons=true&theme=tokyonight)
 
  
- ## Certificados 
-###  Udemy <img src="https://www.udemy.com/staticx/udemy/images/v8/favicon-32x32.png" align="left" width="25" height="25"/>
+ ## Certificados Udemy  <img src="https://www.udemy.com/staticx/udemy/images/v8/favicon-32x32.png" align="left" width="25" height="25"/>
 
 * ![Git y GitHub][github-image]&emsp;Git y GitHub
   - [Jorge Salgado Miranda][github-url-JSM]
@@ -31,8 +30,13 @@ Agradecido con la vida por darme la oportunidad de vivirla al máximo y de ser f
   - [Numpi Cursos][power-BI-url] 
 * ![javaScript y jquery][js-image]&emsp;JavaScrip y Jquery
   - [Víctor Robles][js-url]
+* Scrum Master
+  - [Ismael Ramirez][scrum_url]
 
-
+ ## Certificados Institución 
+ CertiProf
+  * [Scram Master][CertiProf-url]
+  
 
 [github-image]:https://github.com/OscarGit12/OscarGit12/blob/main/git16.png
 [github-url-JSM]:https://www.udemy.com/course/git-y-github-desde-cero-a-experto/
@@ -49,4 +53,8 @@ Agradecido con la vida por darme la oportunidad de vivirla al máximo y de ser f
 
 [angular-image]:https://github.com/OscarGit12/OscarGit12/blob/main/angular.png
 [angular-url]:https://www.udemy.com/course/master-en-javascript-aprender-js-jquery-angular-nodejs-y-mas/
+
+[scrum_url]:https://www.udemy.com/course/scrum-master-espanol/
+
+[CertiProf-url]:https://webinars.itservice.com.co/
 
