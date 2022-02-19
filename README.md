@@ -16,7 +16,7 @@ Agradecido con la vida por darme la oportunidad de vivirla al máximo y de ser f
 
 ### <b>Mis estadisticas de Lenguages publicas son:</b>
  
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscargit12&show_icons=true&theme=tokyonight)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscargit12&langs_count=9&layout=compact&show_icons=true&theme=tokyonight)
 
  
  ## Certificados Udemy  <img src="https://www.udemy.com/staticx/udemy/images/v8/favicon-32x32.png" align="left" width="25" height="25"/>
